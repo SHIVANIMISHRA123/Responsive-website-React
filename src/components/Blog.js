@@ -18,7 +18,7 @@ const Blog = () => {
                 <a href="#" class="title">
                   tasty and refreshing spices
                 </a>
-                <span>by admin / 21st may, 2021</span>
+                <span>by admin /  7th April, 2023</span>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
                   dicta.

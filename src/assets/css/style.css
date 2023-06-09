@@ -191,7 +191,7 @@ section {
 
 .header .cart-items-container .cart-item .content h3 {
   font-size: 2rem;
-  color: #13131a;
+  color: #141215;
   padding-bottom: 0.5rem;
 }
 
@@ -424,7 +424,7 @@ section {
   align-items: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  background: #13131a;
+  background: #19151a;
   border: 0.2rem solid #ffc107;
 }
 
@@ -492,7 +492,7 @@ section {
 }
 
 .footer {
-  background: #13131a;
+  background: #3b033f;
   text-align: center;
 }
 
@@ -569,7 +569,7 @@ section {
     position: absolute;
     top: 100%;
     right: -100%;
-    background: #211c1c;
+    background: #6f0468;
     width: 30rem;
     height: calc(100vh - 9.5rem);
   }
