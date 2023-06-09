@@ -569,7 +569,7 @@ section {
     position: absolute;
     top: 100%;
     right: -100%;
-    background: #000;
+    background: #211c1c;
     width: 30rem;
     height: calc(100vh - 9.5rem);
   }
